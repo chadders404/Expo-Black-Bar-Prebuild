@@ -1,4 +1,5 @@
-**Expo Black Bar reproducible example**
+# Expo Black Bar reproducible example
+
 For this bug to occur, you need three things:
 
 1. React Native Expo project (seemingly any version)
